@@ -32,10 +32,10 @@ The project follows a structured **ETL pipeline**:
 Here are some key images from the project:  
 
 ### 🏗️ Data Pipeline in Action  
-![Data Pipeline](https://github.com/rileha/databricks_de_practice_football/blob/main/Screenshot%202025-03-20%20at%2009.11.12.png?raw=true)  
+![Data Pipeline](https://github.com/rileha/databricks_de_practice_football/blob/main/Screenshots/Screenshot%202025-03-20%20at%2009.11.12.png?raw=true)  
 
 ### 🛠️ Databricks Processing  
-![Databricks Processing](https://github.com/rileha/databricks_de_practice_football/blob/main/Screenshot%202025-03-20%20at%2009.11.29.png?raw=true)  
+![Databricks Processing](https://github.com/rileha/databricks_de_practice_football/blob/main/Screenshots/Screenshot%202025-03-20%20at%2009.11.29.png?raw=true)  
 
 ## 🚀 Technologies Used  
 - **Azure Data Lake Storage (ADLS)**  
